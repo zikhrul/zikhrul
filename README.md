@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zikhrul
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science project
+- 👀 I’m interested in Data Analys and Science
+- 🌱 I’m currently learning Data Analys and Science
+- 💞️ I’m looking to collaborate on Data Analys and Science project
 - 📫 How to reach me https://www.linkedin.com/in/zikhrul/
 
 <!---
