@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data Analys and Science
 - 💞️ I’m looking to collaborate on Data Analys and Science project
 - 📫 How to reach me https://www.linkedin.com/in/zikhrul/
+- check my tableau public on https://public.tableau.com/app/profile/zikhrul.arif
 
 <!---
 zikhrul/zikhrul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
